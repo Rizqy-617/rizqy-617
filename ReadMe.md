@@ -6,7 +6,7 @@
 ### <div align="center">I'm Rizqy Andriansyah, a full-stack developer 👨‍💻 graduated from Dumbways ID</div>  
 
 # 💫 About Me:
-🌱 I’m currently learning PHP, Laravel, Vue, and Wordpress<br>⚡ Fun fact - I'm a anime maniac, game enthusiasts🎮, tech enthusiasts🖥️,, and also J-pop & Classical Music lovers🎼<br>✉️ Reach out to me
+🌱 I’m currently learning PHP, Laravel, Vue, and Wordpress<br>⚡ Fun fact - I'm a anime maniac, game enthusiasts🎮, tech enthusiasts🖥️,, and also J-pop & Classical Music lovers🎼<br>✉️ Reach out to me on [Gmail](mailto:rizqyandriansyah2205@gmail.com)  
 
 
 ## 🌐 Socials:
